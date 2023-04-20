@@ -14,3 +14,8 @@
 <img align="center" alt="Dudu-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
 #
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dudu-Passoni&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
