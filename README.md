@@ -14,4 +14,3 @@
 <img align="center" alt="Dudu-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
 #
-![Snake animation](https://github.com/Dudu-Passoni/blob/output/github-contribution-grid-snake.svg)
