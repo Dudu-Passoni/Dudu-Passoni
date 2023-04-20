@@ -2,8 +2,8 @@
  ##
 
 <a href="https://github.com/Dudu-Passoni">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Dudu-Passoni&show_icons=true&theme=great-gatsby&include_all_comits=true&count_private=true"/>
-  <img height="180cm" width="450" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dudu-Passoni&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img height="180cm" width="400" src="https://github-readme-stats.vercel.app/api?username=Dudu-Passoni&show_icons=true&theme=great-gatsby&include_all_comits=true&count_private=true"/>
+  <img height="180cm" width="400" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dudu-Passoni&layout=compact&langs_count=16&theme=great-gatsby"/>
   
 #
 <img align="center" alt="Dudu-C" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
