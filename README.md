@@ -23,5 +23,5 @@
   
 #
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dudu-Passoni&theme=dark_lover&column=8&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dudu-Passoni&theme=dark_lover&column=8&no-frame=true&row=1&count-private=true)](https://github.com/ryo-ma/github-profile-trophy) 
 
