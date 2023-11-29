@@ -13,12 +13,12 @@
 
 #
 <div align="left" style="display: inline_block">
-<img align="center" alt="Dudu-JAVA" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
- <img align="center" alt="Dudu-Cpp" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-<img align="center" alt="Dudu-C" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
- <img align="center" alt="Dudu-Js" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Dudu-MySQL" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-<img align="center" alt="Dudu-Linux" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+<img align="center" alt="Dudu-JAVA" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+ <img align="center" alt="Dudu-Cpp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+<img align="center" alt="Dudu-C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+ <img align="center" alt="Dudu-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
+<img align="center" alt="Dudu-MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+<img align="center" alt="Dudu-Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 
 </div>  
   
