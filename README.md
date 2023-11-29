@@ -12,7 +12,7 @@
 </div>
 
 #
-<div align="center" style="display: inline_block">
+<div align="left" style="display: inline_block">
 <img align="center" alt="Dudu-JAVA" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  <img align="center" alt="Dudu-Cpp" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 <img align="center" alt="Dudu-C" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
