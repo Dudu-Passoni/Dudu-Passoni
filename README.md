@@ -18,7 +18,7 @@
 <img align="center" alt="Dudu-C" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
  <img align="center" alt="Dudu-Js" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Dudu-MySQL" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-<img align="center" alt="Dudu-Linux" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+<img align="center" alt="Dudu-Ubuntu" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
 
 </div>  
   
