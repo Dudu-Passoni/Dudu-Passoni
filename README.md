@@ -23,7 +23,7 @@
 
 </div>  
   
-##
+#
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dudu-Passoni&theme=dark_lover&column=8&no-frame=true&row=1&count-private=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy) 
 
