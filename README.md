@@ -15,14 +15,14 @@
 #
 <div align="left" style="display: inline_block">
 
-<img align="center" alt="Dudu-JAVA" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<!---<img align="center" alt="Dudu-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">-->
-<img align="center" alt="Dudu-MySQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-<img align="center" alt="Dudu-Ubuntu" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
-<img align="center" alt="Dudu-Ubuntu" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg">
-<!---<img align="center" alt="Dudu-Arch" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />-->
-<img align="center" alt="Dudu-C" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-<img align="center" alt="Dudu-Cpp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+<img align="center" alt="Dudu-JAVA" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<!---<img align="center" alt="Dudu-Js" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">-->
+<img align="center" alt="Dudu-MySQL" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<img align="center" alt="Dudu-Ubuntu" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
+<img align="center" alt="Dudu-Ubuntu" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg">
+<!---<img align="center" alt="Dudu-Arch" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />-->
+<img align="center" alt="Dudu-C" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+<img align="center" alt="Dudu-Cpp" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 
 </div>  
   
