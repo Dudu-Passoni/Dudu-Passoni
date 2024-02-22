@@ -15,7 +15,7 @@
 <div align="left" style="display: inline_block">
 
 <img align="center" alt="Dudu-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<!---<img align="center" alt="Dudu-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">-->
+<!---<img align="center" alt="Dudu-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">-->
 <img align="center" alt="Dudu-MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 <img align="center" alt="Dudu-Debian" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
 <img align="center" alt="Dudu-Ubuntu" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg">
