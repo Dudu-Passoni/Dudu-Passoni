@@ -15,8 +15,7 @@
 <div align="left" style="display: inline_block">
 
 <img align="center" alt="C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> ‎
-<img align="center" alt="Java" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"> ‎ 
-<img align="center" alt="Dudu-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"> ‎ ㅤ
+<img align="center" alt="Java" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"> ‎  ‎ ㅤ
 <img align="center" alt="MySQL" height="80" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> ‎ ㅤㅤㅤ
 <img align="center" alt="Fedora" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-plain.svg" /> ‎ 
 <img align="center" alt="Debian" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-plain-wordmark.svg"> ‎ 
