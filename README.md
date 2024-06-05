@@ -3,7 +3,7 @@
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=Dudu-Passoni&theme=gruvbox&show_icons=true&count_private=true&include_all_commits=true" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=Dudu-Passoni&theme=gruvbox&show_icons=true&count_private=true" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
