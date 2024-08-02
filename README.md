@@ -3,11 +3,11 @@
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=Dudu-Passoni&theme=gruvbox&show_icons=true&count_private=true&include_all_commits=true" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=Dudu-Passoni&theme=gruvbox&show_icons=true&count_private=true" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dudu-passoni&include_all_commits=true&layout=compact&langs_count=8&card_width=320&theme=gruvbox&count_private=true" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dudu-passoni&layout=compact&langs_count=8&card_width=320&theme=gruvbox&count_private=true&include_all_commits=true" />
 </a>
 </div>
 
@@ -29,4 +29,3 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dudu-Passoni&theme=gruvbox&column=8&no-frame=true&row=1&count-private=true&no-bg=true&)](https://github.com/ryo-ma/github-profile-trophy) 
-
